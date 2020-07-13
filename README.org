@@ -1,0 +1,73 @@
+Going to have a go at running through all the Swift UI tutorials, so I at least
+have some idea. I'll try documenting here as I go. StartingPoint is the
+incomplete project from Apple, which I edited on top of.
+
+* DONE SwiftUI Essentials
+CLOSED: [2020-07-13 Mon 21:26]
+
+Learn how to use SwiftUI to compose rich views out of simple ones, set up data
+flow, and build the navigation while watching it unfold in Xcode’s preview.
+
+** DONE Creating and Combining Views
+CLOSED: [2020-06-07 Sun 13:58]
+:LOGBOOK:
+CLOCK: [2020-06-07 Sun 13:37]--[2020-06-07 Sun 13:58] =>  0:21
+:END:
+
+Estimated time - 40 mins
+
+All fairly straightforward, and I think this'll get me used to Swift
+too. However, I'm not sold on squeezing the map view so much, although that'll
+probably make sense if more gets added later. There's a lot of supporting code I
+didn't see, and the example put the extra Swift files in a Supporting Views
+folder, which I got away without doing but is probably a good idea in future.
+** DONE Building Lists and Navigation
+CLOSED: [2020-06-16 Tue 14:39]
+:LOGBOOK:
+CLOCK: [2020-06-16 Tue 14:04]--[2020-06-16 Tue 14:36] =>  0:32
+:END:
+
+Estimated Time - 35 minutes
+
+They're hiding some complexity, but nothing seems impossibly hard to figure
+out. Lists and navigation feel sorta intuitive, although a fair bit of the
+syntax is a bit iffy for now. It seems like it doesn't matter which directory
+Swift files go into, to answer my question from last time, as everything is
+referenced by name. The details of loading things in still feel a bit funny, but
+that's not really a UI thing.
+** DONE Handling User Input
+CLOSED: [2020-07-13 Mon 21:25]
+:LOGBOOK:
+CLOCK: [2020-07-13 Mon 21:03]--[2020-07-13 Mon 21:25] =>  0:22
+:END:
+est: 20minutes
+
+I feel like that one had a ton of tricky things dumped on me without enough
+warning, not sure how much of that is just unfamiliarity with Objective C/Swift,
+and how much of that is SwiftUI specific(Combine popped up). This started to
+feel like actually doing interesting things tho.
+* TODO Drawing and Animation
+
+Discover how to draw shapes and paths to create a badge that you’ll animate,
+while also creating seamless transitions between views.
+
+** Drawing Paths and Shapes
+
+** Animating Views and Transitions
+
+* TODO App Design and Layout
+
+Explore the structure and layout of more complex interfaces built with SwiftUI.
+
+** Composing Complex Interfaces
+
+** Working with UI Controls
+
+* TODO Framework Integration
+
+Use SwiftUI views together with the views and view controllers from
+platform-specific UI frameworks.
+
+** TODO Interfacing with UIKit
+** TODO Creating a watchOS App
+** TODO Creating a macOS App
