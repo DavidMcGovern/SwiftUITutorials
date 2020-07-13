@@ -14,7 +14,9 @@ CLOSED: [2020-06-07 Sun 13:58]
 CLOCK: [2020-06-07 Sun 13:37]--[2020-06-07 Sun 13:58] =>  0:21
 :END:
 
-Estimated time - 40 mins
+Estimated time - 40 minutes
+
+Actual time - 21 minutes
 
 All fairly straightforward, and I think this'll get me used to Swift
 too. However, I'm not sold on squeezing the map view so much, although that'll
@@ -29,6 +31,8 @@ CLOCK: [2020-06-16 Tue 14:04]--[2020-06-16 Tue 14:36] =>  0:32
 
 Estimated Time - 35 minutes
 
+Actual time - 32 minutes
+
 They're hiding some complexity, but nothing seems impossibly hard to figure
 out. Lists and navigation feel sorta intuitive, although a fair bit of the
 syntax is a bit iffy for now. It seems like it doesn't matter which directory
@@ -40,7 +44,9 @@ CLOSED: [2020-07-13 Mon 21:25]
 :LOGBOOK:
 CLOCK: [2020-07-13 Mon 21:03]--[2020-07-13 Mon 21:25] =>  0:22
 :END:
-est: 20minutes
+Estimated Time - 20 minutes
+
+Actual time - 21 minutes
 
 I feel like that one had a ton of tricky things dumped on me without enough
 warning, not sure how much of that is just unfamiliarity with Objective C/Swift,
