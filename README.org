@@ -54,10 +54,24 @@ and how much of that is SwiftUI specific(Combine popped up). This started to
 feel like actually doing interesting things tho.
 * TODO Drawing and Animation
 
+
+
 Discover how to draw shapes and paths to create a badge that you’ll animate,
 while also creating seamless transitions between views.
 
-** Drawing Paths and Shapes
+
+** DONE Drawing Paths and Shapes
+CLOSED: [2020-07-14 Tue 21:54]
+:LOGBOOK:
+CLOCK: [2020-07-14 Tue 21:34]--[2020-07-14 Tue 21:53] =>  0:19
+:END:
+Estimated time - 25 minutes
+
+Actual time - 19 minutes
+
+I rushed through that one because I wasn't very sure what was
+happening. Definitely a fair bit to figure out, but I feel like I got something
+of the vibe.
 
 ** Animating Views and Transitions
 
